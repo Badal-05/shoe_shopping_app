@@ -10,6 +10,12 @@
 - Add to cart features.
 
 
+## Upcoming Features
+
+- Login / Signup.
+- Payment Gateway Integration.
+
+
 
 ## Screen Shots
 <p style="display: flex; justify-content: center;">
