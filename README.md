@@ -1,10 +1,41 @@
-# shop_app
+<h1 align="center">Shoe Mania</h1>
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<p align="center">An online shoe market with great catalouge, with add to cart features.</p>
+
+## Features
+
+- Extensive catalouge.
+- Add to cart features.
+
+
+
+## Screen Shots
+<p style="display: flex; justify-content: center;">
+  <img src="./1.png" width="240" />
+  <img src="./2.png" width="240" />
+  <img src="./3.png" width="240" />
+</p>
+---------------------------------------------------------------------------------------------------------------------------------
+<p style="display: flex; justify-content: center;">
+  <img src="./4.png" width="240" />
+  <img src="./5.png" width="500" />
+</p>
+
+
+
+Some of the Widgets used in this project:
+- Stack
+- ListView.builder()
+- Chip
+- LayoutBuilder
+
+
+UI specs
+- Minimalistic UI with a seed colour Yellow.
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
