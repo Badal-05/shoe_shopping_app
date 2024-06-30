@@ -23,14 +23,15 @@
   <img src="Simulator Screenshot - iPhone 15 Pro Max - 2024-06-30 at 10.43.16.png" width="240" />
 </p>
 
-
+State Management:
+- Provider (ChangeNotifyProvider) used in the project.
 
 Some of the Widgets used in this project:
 - Stack
 - ListView.builder()
 - Chip
 - LayoutBuilder
-
+- Alert Dialog
 
 UI specs
 - Minimalistic UI with a seed colour Yellow.
