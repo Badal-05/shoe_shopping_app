@@ -13,11 +13,11 @@
 
 ## Screen Shots
 <p style="display: flex; justify-content: center;">
-  <img src=".Simulator Screenshot - iPhone 15 Pro Max - 2024-06-30 at 10.42.43.png" width="240" />
+  <img src="Simulator Screenshot - iPhone 15 Pro Max - 2024-06-30 at 10.42.43.png" width="240" />
   <img src="Simulator Screenshot - iPhone 15 Pro Max - 2024-06-30 at 10.42.51.png" width="240" />
   <img src="Simulator Screenshot - iPhone 15 Pro Max - 2024-06-30 at 10.43.02.png" width="240" />
 </p>
----------------------------------------------------------------------------------------------------------------------------------
+
 <p style="display: flex; justify-content: center;">
   <img src="Simulator Screenshot - iPhone 15 Pro Max - 2024-06-30 at 10.43.08.png" width="240" />
   <img src="Simulator Screenshot - iPhone 15 Pro Max - 2024-06-30 at 10.43.16.png" width="240" />
